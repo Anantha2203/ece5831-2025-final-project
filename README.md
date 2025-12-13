@@ -6,11 +6,10 @@ A compact, reproducible pipeline for text emotion detection (Happy, Sad, Angry, 
 Models: a TF-IDF + Logistic Regression baseline and a BiLSTM classifier.
 Deliverables include the final paper, slides, recorded talk, demo video, dataset link, and an executed notebook.
 
----
+
 
 ## Links
 
-> Replace the placeholders with your actual URLs or repo paths.
 
 - Pre-recorded presentation video:  
   [YouTube (unlisted)](https://youtu.be/your-video-id) • [Backup (Drive)](https://drive.google.com/your-link)
@@ -27,3 +26,6 @@ Deliverables include the final paper, slides, recorded talk, demo video, dataset
 
 - Demo video (short UI walk-through):  
   [YouTube (unlisted)](https://youtu.be/your-demo-id)
+
+
+This project was done by: Rathikadevi Mani, Anantha Gokul Sivakumar, Rakshita Telrandhe
