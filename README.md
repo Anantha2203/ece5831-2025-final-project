@@ -12,20 +12,19 @@ Deliverables include the final paper, slides, recorded talk, demo video, dataset
 
 
 - Pre-recorded presentation video:  
-  [YouTube (unlisted)](https://youtu.be/your-video-id) • [Backup (Drive)](https://drive.google.com/your-link)
+  
 
 - Presentation slides (PDF):  
-  [`slides/final_slides.pdf`](slides/final_slides.pdf)
+  
 
 - Final report (PDF):  
-  [`report/EmotiSense_Report.pdf`](report/EmotiSense_Report.pdf)
+ 
 
 - Dataset:  
-  - Source: [Dataset name or paper/site](https://example.com/dataset)  
-  - Our split/label notes: [`data/README.md`](data/README.md)
+  
 
-- Demo video (short UI walk-through):  
-  [YouTube (unlisted)](https://youtu.be/your-demo-id)
+- Demo video:  
+  
 
 
 This project was done by: Rathikadevi Mani, Anantha Gokul Sivakumar, Rakshita Telrandhe
