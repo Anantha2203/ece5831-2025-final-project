@@ -105,9 +105,9 @@ See the report for detailed metrics, curves, and the confusion matrix.
 ## Links / Resources
 
 - **Pre-recorded presentation video:** <PASTE_YOUTUBE_OR_DRIVE_LINK_HERE>
-- [Presentation slides](https://drive.google.com/drive/u/0/folders/1CkRIxO5U1YubWMCWU5C7bL1BCBMb6Ne1)
-- [Report](https://drive.google.com/drive/u/0/folders/1aVrZKOWf4pZRA-OYw2YvfPENej-7eWUG)
-- [Dataset](https://drive.google.com/drive/u/0/folders/1fpiklJQs3It5nCCo1hv6p6scADBCbNbF)
+- [Presentation slides](https://drive.google.com/drive/folders/18JAcTutNz7PJ8Lkbvcd01RF7gtY5hFV5)
+- [Report](https://drive.google.com/drive/folders/1glmbVero4Mp1m_9irRj2qmeUoQZYgLkS)
+- [Dataset](https://drive.google.com/drive/folders/1_UE628_FHSCmvC-YhO5X7S0M5345hMMY)
 - **Demo video:** <PASTE_DEMO_VIDEO_LINK_HERE>
 
 ## Team
