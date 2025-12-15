@@ -1,0 +1,78 @@
+# --- Python bytecode / caches ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# --- Virtual envs ---
+.venv/
+venv/
+env/
+.conda/
+pip-wheel-metadata/
+
+# --- Notebooks ---
+.ipynb_checkpoints/
+
+# --- Logs / reports / coverage ---
+logs/
+*.log
+.coverage*
+htmlcov/
+.pytest_cache/
+
+# --- Packaging / build artifacts ---
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+
+# --- IDE / editor ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- Data & runs (keep only the split txt files) ---
+data/**
+!data/train.txt
+!data/val.txt
+!data/test.txt
+!data/README.md
+
+runs/**
+
+# --- Models & ML artifacts ---
+models/**
+!models/README.md
+*.h5
+*.hdf5
+*.ckpt
+*.ckpt.*
+*.pb
+*.tflite
+*.pt
+*.onnx
+*.savedmodel
+*.pkl
+*.joblib
+*.npz
+*.npy
+tokenizer.pkl
+inv_class_map.pkl
+
+# --- App caches (Gradio / Streamlit) ---
+gradio_cached_examples/
+gradio_static/
+.gradio/
+.streamlit/
+.streamlit/secrets.toml
+
+# --- Env secrets ---
+.env
+.env.*
+*.env
